@@ -77,4 +77,4 @@ The **Student Grading System** is a web-based application that allows users to e
 - ✅ **Generate Graphs & Reports** using JavaScript chart libraries.  
 
 ## **🎤 Conclusion**
-The **Student Grading System** is an innovative and interactive project designed to simplify **student grade calculation, data storage, and processing**. With a **modern UI, automated calculations, and seamless integration**, it offers a **real-world use case** that can be expanded further.
+The **Student Grading System** is an innovative and interactive project designed to simplify **student grade calculation, data storage, and processing**. With a **modern UI, automated calculations, and seamless integration**, it offers a **real-world use case** that can be expanded further..
